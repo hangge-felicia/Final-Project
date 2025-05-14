@@ -24,10 +24,10 @@ Citi Bike System Data from October 2024
 
 ## Project Contents
 - `Project_Summary.pdf` - project summary with insights and future work recommendations 
-- `Final_Project2.ipynb` - jupyter notebook used for initial exploratory analysis 
-- `Final_Project3.ipynb` - jupyter notebook used for cleaning data
-- `Final_Project4.ipynb` - jupyter notebook used for analysis and visualization of first two questions
-- `Final_Project5.ipynb` - jupyter notebook used for analysis and visualization of last two questions
+- `FinalProject_2.ipynb` - jupyter notebook used for initial exploratory analysis 
+- `FinalProject_3.ipynb` - jupyter notebook used for cleaning data
+- `FinalProject_4.ipynb` - jupyter notebook used for analysis and visualization of first two questions
+- `FinalProject_5.ipynb` - jupyter notebook used for analysis and visualization of last two questions
 - `FinalProjectPresentation.pptx`- final powerpoint presentation with findings
 - `cleaned_citibike_oct2024.csv`- cleaned data 
 - `citibike_oct2024.csv`- uncleaned data
